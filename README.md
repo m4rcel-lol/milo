@@ -1,6 +1,6 @@
 # 🖥️ Milo: Retro Windows 98 AI Assistant
 
-![Milo Screenshot](MiloBanner.png)
+![Milo Screenshot](https://raw.githubusercontent.com/m4rcel-lol/assets/daf12cc7452c0ac0df1cbc7bfe2328af11156916/MiloBanner.png)
 
 Milo is a friendly, blocky, 2.5D AI assistant desktop app inspired by classic Windows 98 UI—complete with chat, speech synthesis, and a charming avatar that blinks and waves!  
 Milo runs Gemini AI locally to chat and uses pyttsx3 for retro text-to-speech, providing an instantly nostalgic experience with modern smarts.
