@@ -40,4 +40,7 @@ Milo runs Gemini AI locally to chat and uses pyttsx3 for retro text-to-speech, p
 ## ⚙️ Configuration
 
 Create a `.env` file next to `Milo.py` with your Gemini API key:
+```
+GOOGLE_API_KEY=your_api_key
+```
 
